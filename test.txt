@@ -1,0 +1,6 @@
+git init
+git add README.md
+git add test.txt
+git commit -m "frist test"
+git remote add origin https://github.com/ceyloncoder/master.git
+git push -u origin master
